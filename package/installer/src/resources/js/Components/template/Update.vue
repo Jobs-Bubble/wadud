@@ -16,7 +16,7 @@
         <div class="d-flex align-items-center justify-content-between mb-3" v-for="update in updates.result" >
             {{ update.version }}
             <div class="btn-group btn-group-action d-inline-block">
-                <a href="https://jobpoint.dev.gainhq.com/documentation/change-log.html"
+                <a href="https://wadud.dev.gainhq.com/documentation/change-log.html"
                    target="_blank">{{ $t('change_logs') }}</a>
                 <button type="button"
                         class="btn"

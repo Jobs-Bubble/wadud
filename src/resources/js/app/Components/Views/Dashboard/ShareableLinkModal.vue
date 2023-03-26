@@ -47,7 +47,7 @@ export default {
             modalId: 'shareable-link-modal',
             modalTitle: 'Shareable link',
             successfullyCopied: false,
-            shareableLink: 'http://jobpoint.test/job-overview?tab=Overview',
+            shareableLink: 'http://wadud.test/job-overview?tab=Overview',
         }
     },
     created() {

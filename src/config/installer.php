@@ -44,7 +44,7 @@ return [
     ],
 
     'link' => [
-        'symlink_requirement' => 'https://jobpoint.gainhq.com/documentation/server-requirement.html#symlink_permission'
+        'symlink_requirement' => 'https://wadud.gainhq.com/documentation/server-requirement.html#symlink_permission'
     ],
     'manual_update' => false
 ];

@@ -1,7 +1,7 @@
 <template>
     <div v-if="!loading">
         <div class="mb-primary">
-            <a href="https://jobpoint.gainhq.com/documentation/upgrade-guide.html" target="_blank"
+            <a href="https://wadud.gainhq.com/documentation/upgrade-guide.html" target="_blank"
                class="float-right text-muted hover-underline">Need help?</a>
             <app-note
                 :class="'mb-primary clearfix'"
@@ -43,7 +43,7 @@
         <div v-if="defaultUpdate && updates.result.length">
             <div class="border-0 height-180 p-primary default-base-color d-flex flex-column align-items-center justify-content-center">
                 <h5 class="mb-1">{{$t('version')}}: {{nextUpdatableVersion}}</h5>
-                <a href="https://jobpoint.gainhq.com/documentation/change-log.html"
+                <a href="https://wadud.gainhq.com/documentation/change-log.html"
                    target="_blank" class="text-muted hover-underline font-size-90">{{ $t('change_logs') }}</a>
                 <button
                     type="button"

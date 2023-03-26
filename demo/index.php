@@ -5,10 +5,10 @@
         <meta name="viewport"
               content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
         <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
-        <title>Demo - Jobpoint</title>
-        <link rel="shortcut icon" href="https://jobpoint.gainhq.com/images/icon.png"/>
-        <link rel="apple-touch-icon" href="https://jobpoint.gainhq.com/images/icon.png"/>
-        <link rel="apple-touch-icon-precomposed" href="https://jobpoint.gainhq.com/images/icon.png"/>
+        <title>Demo - wadud</title>
+        <link rel="shortcut icon" href="https://wadud.gainhq.com/images/icon.png"/>
+        <link rel="apple-touch-icon" href="https://wadud.gainhq.com/images/icon.png"/>
+        <link rel="apple-touch-icon-precomposed" href="https://wadud.gainhq.com/images/icon.png"/>
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -48,10 +48,10 @@
     <body>
         <main>
             <div class="logo-container">
-                <img src="https://jobpoint.gainhq.com/images/logo.png" class="img-fluid" alt="Jobpoint logo">
+                <img src="https://wadud.gainhq.com/images/logo.png" class="img-fluid" alt="wadud logo">
             </div>
             <div class="demo-btn-container">
-                <a  class="btn btn-default demo-btn" href="https://jobpoint.gainhq.com/" target="new">Click to view demo</a>
+                <a  class="btn btn-default demo-btn" href="https://wadud.gainhq.com/" target="new">Click to view demo</a>
             </div>
         </main>
 

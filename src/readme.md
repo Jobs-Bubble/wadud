@@ -2,7 +2,7 @@
 
 ### Introduction 
 
-Job Point is the online software solution to manage job posting to job hiring process for Job recruiters in a quick and efficient way, available 24/7 through Internet. JobPoint software aims to simplify the process of job advertisement, jobs orientation, job interviews and employee selection to maintaining employer-employee relationship. JobPoint is  ideal application for both small and large companies, recruitment agencies and employers of all types.
+Job Point is the online software solution to manage job posting to job hiring process for Job recruiters in a quick and efficient way, available 24/7 through Internet. wadud software aims to simplify the process of job advertisement, jobs orientation, job interviews and employee selection to maintaining employer-employee relationship. wadud is  ideal application for both small and large companies, recruitment agencies and employers of all types.
 
 
 # Installation

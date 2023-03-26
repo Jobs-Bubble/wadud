@@ -7,7 +7,7 @@ return [
     'update_url' => 'https://marketplace.gainhq.com',
 
     /* Application id */
-    'app_id' => 'jobpoint',
+    'app_id' => 'wadud',
 
     /*Determine if the app is Installed or not*/
     'installed' => env('APP_INSTALLED', true),

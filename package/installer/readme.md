@@ -89,7 +89,7 @@ Make sure .env.cli in correct
 
 ```
 APP_READ_ONLY=false
-APP_NAME="Jobpoint"
+APP_NAME="wadud"
 APP_ENV=production
 APP_KEY=
 APP_URL=
@@ -232,7 +232,7 @@ return [
     'update_url' => 'https://marketplace.gainhq.com',
 
     /* Application id */
-    'app_id' => 'jobpoint',
+    'app_id' => 'wadud',
 
     /*Determine if the app is Installed or not*/
     'installed' => env('APP_INSTALLED', true),

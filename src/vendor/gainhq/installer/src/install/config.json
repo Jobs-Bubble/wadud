@@ -44,10 +44,10 @@
         "publish" : false
     },
     "link": {
-        "php_version" : "https://jobpoint.gainhq.com/documentation/server-requirement.html#php_version",
-        "php_environment" : "https://jobpoint.gainhq.com/documentation/server-requirement.html#php_environment",
-        "php_options" : "https://jobpoint.gainhq.com/documentation/server-requirement.html#php_option",
-        "mysql_version" : "https://jobpoint.gainhq.com/documentation/server-requirement.html#mysql_version",
-        "folder_permissions" : "https://jobpoint.gainhq.com/documentation/server-requirement.html#folder_permission"
+        "php_version" : "https://wadud.gainhq.com/documentation/server-requirement.html#php_version",
+        "php_environment" : "https://wadud.gainhq.com/documentation/server-requirement.html#php_environment",
+        "php_options" : "https://wadud.gainhq.com/documentation/server-requirement.html#php_option",
+        "mysql_version" : "https://wadud.gainhq.com/documentation/server-requirement.html#mysql_version",
+        "folder_permissions" : "https://wadud.gainhq.com/documentation/server-requirement.html#folder_permission"
     }
 }

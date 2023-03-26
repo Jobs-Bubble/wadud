@@ -8,7 +8,7 @@ return [
         ['name' => 'date_of_birth', 'value' => '', 'context' => 'user'],
     ],
     'app' => [
-        ['name' => 'company_name', 'value' => env('APP_NAME', 'Jobpoint'), 'context' => 'app', 'autoload' => 0, 'public' => 1],
+        ['name' => 'company_name', 'value' => env('APP_NAME', 'wadud'), 'context' => 'app', 'autoload' => 0, 'public' => 1],
         ['name' => 'company_logo', 'value' => '/images/logo.png', 'context' => 'app', 'autoload' => 0, 'public' => 1],
         ['name' => 'company_icon', 'value' => '/images/icon.png', 'context' => 'app', 'autoload' => 0, 'public' => 1],
         ['name' => 'company_banner', 'value' => '/images/banner.png', 'context' => 'app', 'autoload' => 0, 'public' => 1],
