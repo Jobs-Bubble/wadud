@@ -88,7 +88,7 @@
     "esm": "^3.2.25",
     "feather-icons": "^4.26.0",
     "fecha": "^4.1.0",
-    "laravel-echo": "^1.8.1",
+    "laravel-echo": "^1.15.0",
     "moment": "^2.24.0",
     "nouislider": "^14.1.1",
     "query-string": "^6.13.6",
